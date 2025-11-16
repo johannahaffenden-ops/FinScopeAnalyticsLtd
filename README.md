@@ -30,8 +30,6 @@ Sterling Wealth Partners aims to:
 - Strengthen product strategy with ESG-aligned offerings  
 - Future-proof the business through data-driven decision making  
 
-FinScope Analytics uses multi-source data to deliver actionable insights that guide strategic product development, client engagement, and long-term planning.
-
 ---
 
 ## 🎯 Project Goals
@@ -50,12 +48,14 @@ This project demonstrates my ability to:
 - Apply **behavioural segmentation**, trend analysis, and demographic profiling
 - Communicate findings effectively through visuals and narrative  
 
----
+FinScope Analytics uses multi-source data to deliver actionable insights that guide strategic product development, client engagement, and long-term planning.
 
 ## 🗂️ Resources & Files  
-(*Links will be added later*)
 
-- 🔗 **Power BI Dashboard (.pbix)** — *Download here*  
+- 🔗 An interactive PowerBI dashboard can be downloaded — *[View here](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/finance_project-FinScopeAnalytics.pbix)*
+- 🔗 The SQL queries utilized to inspect and perform quality checks can be found — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/1%20-%20Example%20Initial%20Data%20Checks.sql)*  
+- 🔗 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/2%20-%20Cleaning%20Data%20For%20Analysis.sql)*  
+- 🔗 Targeted SQL queries regarding various business questions can be found — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/3%20-%20Targeted%20Business%20Questions.sql)*  
 
 ---
 
@@ -70,6 +70,8 @@ The dataset consists of three relational tables:
 ✔ 12,000 unique customer records  
 ✔ 15,000 investment transactions  
 
+![Data Schema](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/Screenshots/DatabaseSchema.jpg)
+
 Before analysis, SQL was used for data quality assurance:
 For example, 
 - Validate date formats  
@@ -77,13 +79,13 @@ For example,
 - Standardise categorical responses  
 - Confirm referential integrity between tables  
 
-- 🔗 **SQL – Initial Quality Checks** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/1%20-%20Example%20Initial%20Data%20Checks.sql)*  
-- 🔗 **SQL – Data Cleaning & Preparation** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/2%20-%20Cleaning%20Data%20For%20Analysis.sql)*  
-- 🔗 **SQL – Business Question Analysis** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/3%20-%20Targeted%20Business%20Questions.sql)*  
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries utilized to inspect and perform quality checks can be found ![here](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/tree/main/SQL%20Queries)
 
 ---
 
 # 📌 Executive Summary
+
+**Overview of Findings**
 
 Investment activity shows steady growth from **£13.0M in 2023** to **£15.7M in 2025**, including a **£731K YoY increase** from 2024 to 2025. Total transactions remain stable at **15K**, and the firm maintains a strong base of **12K active investors**.
 
@@ -114,6 +116,8 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 - The **65+ group** shows the highest intention to **increase future investments**, whereas younger groups show modest but positive intentions.  
 - “Planning to Decrease” responses are most common among ages **36–55**, indicating an at-risk segment for engagement.
 
+![Client Investors Insights screenshot](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/Screenshots/FinScopeAnalyticsLtd_3.ClientInvestorsInsights.jpg)
+
 ---
 
 # 🌍 Investment Product vs Global Trends
@@ -122,6 +126,8 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 - High-sustainability options—particularly **Government Bonds (4.84%)**—are under-adopted.  
 - This contrasts with strong global trends toward **sustainable and ESG products**, as well as increasing regulatory requirements for sustainable investing.  
 - The gap between global momentum and client behaviour presents a strategic opportunity to expand the ESG product suite.
+
+![Investment Product vs Global Trends screenshot](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/Screenshots/FinScopeAnalyticsLtd_4.InvestmentProductvsGlobalTrends.jpg)
 
 ---
 
@@ -145,7 +151,7 @@ Use demographic and behavioural indicators (risk attitude, investment motivation
 ### ✔ Data Cleaning & Preprocessing  
 - SQL string cleanup, date conversions, type normalisation  
 - Python exploratory checks & feature creation  
-- Excel adjustments and QA  
+- Excel adjustments and QA
 
 ### ✔ Data Modelling  
 - Fact/dimension modelling  
@@ -162,6 +168,6 @@ Use demographic and behavioural indicators (risk attitude, investment motivation
 # 📬 Contact
 
 If you'd like to discuss this project, collaborate, or view more work:  
-📧 *[Add your email]*  
-🔗 LinkedIn: *[Add your link]*
+📧 *[johannahaffenden@gmail.com]*  
+🔗 LinkedIn: *[www.linkedin.com/in/johanna-haffenden]*
 
