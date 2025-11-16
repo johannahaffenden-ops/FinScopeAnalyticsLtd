@@ -3,7 +3,7 @@
 
 ---
 
-## 🏢 Project Background
+## Project Background
 
 FinScope Analytics Ltd is a UK-based market research and data insights firm (est. 2012) specialising in financial behaviour and investment trend analysis. The firm supports banks, investment houses, and policy organisations in understanding how people make financial decisions across age, gender, and income groups.
 
@@ -19,7 +19,7 @@ The analysis combines demographic, behavioural, and product-level data to provid
 
 ---
 
-## 🧠 Business Case Summary
+## Business Case Summary
 
 Sterling Wealth Partners aims to:
 
@@ -32,7 +32,7 @@ Sterling Wealth Partners aims to:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 ➡️ Provide robust, data-driven insights  
 ➡️ Build a complete analytical workflow using multiple tools  
@@ -50,7 +50,7 @@ This project demonstrates my ability to:
 
 FinScope Analytics uses multi-source data to deliver actionable insights that guide strategic product development, client engagement, and long-term planning.
 
-## 🗂️ Resources & Files  
+## Resources & Files  
 
 - 🔗 An interactive PowerBI dashboard can be downloaded — *[View here](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/finance_project-FinScopeAnalytics.pbix)*
 - 🔗 The SQL queries utilized to inspect and perform quality checks can be found — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/1%20-%20Example%20Initial%20Data%20Checks.sql)*  
@@ -59,7 +59,7 @@ FinScope Analytics uses multi-source data to deliver actionable insights that gu
 
 ---
 
-## 🧱 Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
 The dataset consists of three relational tables:
 
@@ -83,7 +83,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ---
 
-# 📌 Executive Summary
+# Executive Summary
 
 **Overview of Findings**
 
@@ -98,7 +98,7 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 
 ---
 
-# 👥 Client Investors Profile
+# Client Investors Profile
 
 - The **65+ age group** represents the largest share of investors (33.98%) and contributes the highest total investment value (**£15M**).  
 - A strong gender imbalance is present within this segment (**£9.3M male vs £5.7M female**).  
@@ -109,7 +109,7 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 
 ---
 
-# 💡 Client Investors Insights
+# Client Investors Insights
 
 - Males show higher focus on **Returns** and **Risk-taking**, while females display a more balanced distribution across **Returns**, **Savings for Future**, and **Wealth Creation**.  
 - Across all age groups, **Returns** and **Savings for Future** are the strongest motivators.  
@@ -120,7 +120,7 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 
 ---
 
-# 🌍 Investment Product vs Global Trends
+# Investment Product vs Global Trends
 
 - Client investments are currently concentrated in **medium- and low-sustainability products**, led by Debentures (50.97%) and Gold (34.66%).  
 - High-sustainability options, particularly **Government Bonds (4.84%)****,are under-adopted.  
@@ -131,7 +131,7 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 
 ---
 
-# 📑 Recommendations
+# Recommendations
 
 Based on the findings derived, the following recommendations are proposed:
 
