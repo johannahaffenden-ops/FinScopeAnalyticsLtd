@@ -123,7 +123,7 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 # 🌍 Investment Product vs Global Trends
 
 - Client investments are currently concentrated in **medium- and low-sustainability products**, led by Debentures (50.97%) and Gold (34.66%).  
-- High-sustainability options—particularly **Government Bonds (4.84%)**—are under-adopted.  
+- High-sustainability options, particularly **Government Bonds (4.84%)****,are under-adopted.  
 - This contrasts with strong global trends toward **sustainable and ESG products**, as well as increasing regulatory requirements for sustainable investing.  
 - The gap between global momentum and client behaviour presents a strategic opportunity to expand the ESG product suite.
 
