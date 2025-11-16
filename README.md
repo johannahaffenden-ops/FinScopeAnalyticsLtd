@@ -56,9 +56,6 @@ This project demonstrates my ability to:
 (*Links will be added later*)
 
 - 🔗 **Power BI Dashboard (.pbix)** — *Download here*  
-- 🔗 **SQL – Initial Quality Checks** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/1%20-%20Example%20Initial%20Data%20Checks.sql)*  
-- 🔗 **SQL – Data Cleaning & Preparation** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/2%20-%20Cleaning%20Data%20For%20Analysis.sql)*  
-- 🔗 **SQL – Business Question Analysis** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/3%20-%20Targeted%20Business%20Questions.sql)*  
 
 ---
 
@@ -73,14 +70,16 @@ The dataset consists of three relational tables:
 ✔ 12,000 unique customer records  
 ✔ 15,000 investment transactions  
 
-Before analysis, SQL was used to:
-
+Before analysis, SQL was used for data quality assurance:
+For example, 
 - Validate date formats  
 - Identify missing or duplicated entries  
 - Standardise categorical responses  
 - Confirm referential integrity between tables  
 
-SQL inspection & QC queries will be linked **here**.
+- 🔗 **SQL – Initial Quality Checks** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/1%20-%20Example%20Initial%20Data%20Checks.sql)*  
+- 🔗 **SQL – Data Cleaning & Preparation** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/2%20-%20Cleaning%20Data%20For%20Analysis.sql)*  
+- 🔗 **SQL – Business Question Analysis** — *[View queries](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/SQL%20Queries/3%20-%20Targeted%20Business%20Questions.sql)*  
 
 ---
 
@@ -93,6 +92,8 @@ Debentures and Government Bonds remain the most transacted products, while Fixed
 The following sections explore demographic trends, investor behaviour, and global sustainability patterns to support strategic decision-making.  
 The Power BI Overview page is shown below; the full interactive dashboard can be downloaded **here**.
 
+![Overview screenshot](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/Screenshots/FinScopeAnalyticsLtd_1.Overview.jpg)
+
 ---
 
 # 👥 Client Investors Profile
@@ -101,6 +102,8 @@ The Power BI Overview page is shown below; the full interactive dashboard can be
 - A strong gender imbalance is present within this segment (**£9.3M male vs £5.7M female**).  
 - Mid-life groups (ages 26–55) each invest around **£6M**, indicating stable but moderate activity.  
 - The **18–25 age group** shows the smallest absolute investment value (£5M) but meaningful long-term growth potential.
+
+![Client Investors Profile screenshot](https://github.com/johannahaffenden-ops/FinScopeAnalyticsLtd/blob/main/Screenshots/FinScopeAnalyticsLtd_2.ClientInvestorsProfile.jpg)
 
 ---
 
